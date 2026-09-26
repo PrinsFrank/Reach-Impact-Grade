@@ -84,10 +84,10 @@ A method complexity is a set of complexity scores:
 
 To collapse the method complexity into a single score, all its individual scores are added together.
 
-## 3. Class complexity
+## 4. Class complexity
 
 A class complexity is the sum of all method complexities, plus the type complexity of any property.
 
-## 4. Codebase complexity
+## 5. Codebase complexity
 
 The complexity of a codebase is calculated by adding all the individual class complexity scores together.
